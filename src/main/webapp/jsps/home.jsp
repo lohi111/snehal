@@ -53,7 +53,7 @@
 <body>
 
 <header>
-    <h1>Lohith Institute of Engineering & Technology</h1>
+    <h1>Snehal Institute of Engineering & Technology</h1>
     <p>An Autonomous Institution Approved by AICTE & Permanently Affiliated to JNTU Gurajada, Vizianagaram</p>
 </header>
 
